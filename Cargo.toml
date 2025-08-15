@@ -1,6 +1,13 @@
 [package]
 name = "calc_near_x"
 version = "0.1.1"
-edition = "2024"
+edition = "2021"
+description = "Uma biblioteca Rust para cálculos matemáticos com operações básicas"
+license = "MIT"
+repository = "https://github.com/seu-usuario/calc_near_x"
+keywords = ["math", "calculator", "arithmetic", "rust"]
+categories = ["science", "algorithms"]
+authors = ["Seu Nome <seu-email@exemplo.com>"]
+readme = "README.md"
 
 [dependencies]
