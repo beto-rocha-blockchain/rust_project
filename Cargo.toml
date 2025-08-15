@@ -7,7 +7,7 @@ license = "MIT"
 repository = "https://github.com/seu-usuario/calc_near_x"
 keywords = ["math", "calculator", "arithmetic", "rust"]
 categories = ["science", "algorithms"]
-authors = ["Seu Nome <seu-email@exemplo.com>"]
+authors = ["Roberto Pimentel <roberto.blockchainresources@gmail.com>"]
 readme = "README.md"
 
 [dependencies]
