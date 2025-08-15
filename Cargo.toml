@@ -1,5 +1,5 @@
 [package]
-name = "calc_near_x"
+name = "calc_near_x_roberto"
 version = "0.1.1"
 edition = "2021"
 description = "Uma biblioteca Rust para cálculos matemáticos com operações básicas"
